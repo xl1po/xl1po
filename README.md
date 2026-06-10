@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+<img
+  src="https://github.com/xl1po/xl1po/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true"
+  width="100%"
+  alt="3D Contribution"
+/>
