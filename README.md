@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img
-  src="https://github.com/xl1po/xl1po/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true"
+  src="https://github.com/xl1po/xl1po/blob/main/profile-3d-contrib/profile-night-view.svg?raw=true&v=2"
   width="100%"
   alt="3D Contribution"
 />
